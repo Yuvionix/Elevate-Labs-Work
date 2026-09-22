@@ -52,4 +52,4 @@ Although free VPNs have some limitations such as slower speeds and restricted se
 ## 📚 Keywords
 `VPN` • `Encryption` • `Privacy` • `Tunneling` • `Network Security` • `Anonymity`
 
-**© 2025 Pratyush Raj — ElevateLabs Pvt. Ltd. Cyber Security Internship**
+**© 2025 Yuvraj Yadav — ElevateLabs Pvt. Ltd. Cyber Security Internship**
