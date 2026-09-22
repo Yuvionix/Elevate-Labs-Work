@@ -1,6 +1,6 @@
 # 🔐 Task 6 — Create a Strong Password and Evaluate Its Strength
 
-**Author:** Pratyush Raj  
+**Author:** Yuvraj Yadav
 **Date:** 28-10-2025  
 **Platform Used:** [PasswordMeter.com](https://passwordmeter.com), [PasswordMonster.com](https://www.passwordmonster.com)
 
@@ -138,4 +138,4 @@ Task-6_Password_Strength/
 └── 🖼️ Password_Meter_3.png  
   
 ---
-**© 2025 Pratyush Raj — ElevateLabs Pvt. Ltd. Cyber Security Internship**
+**© 2025 Yuvraj Yadav — ElevateLabs Pvt. Ltd. Cyber Security Internship**
