@@ -1,6 +1,6 @@
 # Task 1 — Local Network Open Ports Scan
 
-**Author:** Pratyush Raj  
+**Author:** Yuvraj Yadav  
 **Date:** 20-10-2025  
 **Network scanned:** 192.168.1.0/24  
 
@@ -139,4 +139,4 @@ sudo nmap -sU -p 53,161 192.168.1.4 -oN ElevateLabsWork/Task1-Port_Scan/scans/ud
 **Outcome reflection**
 Developed basic network reconnaissance skills; gained practical experience discovering live hosts on a subnet and preparing for deeper port/service scans to analyze service exposure.
 
-  **© 2025 Pratyush Raj — ElevateLabs Pvt. Ltd. Cyber Security Internship**
+  **© 2025 Yuvraj Yadav — ElevateLabs Pvt. Ltd. Cyber Security Internship**
