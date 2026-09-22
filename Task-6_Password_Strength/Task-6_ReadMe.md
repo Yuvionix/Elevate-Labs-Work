@@ -88,10 +88,10 @@ Each password was further evaluated using **PasswordMonster.com** to estimate cr
 | Password | Strength (%) | Crack Time | Overall Rating |
 |-----------|---------------|-------------|----------------|
 | `123456` | 25% | < 1 sec | ❌ Weak |
-| `pratyush123` | 56% | Minutes | ⚠️ Fair |
-| `Pratyush123` | 78% | Weeks | ✅ Strong |
-| `Pratyush@123/` | 92% | Years | 💪 Very Strong |
-| `Pr@tYush#987/` | 100% | Centuries | 🏆 Excellent |
+| `Yuvraj123` | 56% | Minutes | ⚠️ Fair |
+| `Yuvraj123` | 78% | Weeks | ✅ Strong |
+| `Yuvraj@123/` | 92% | Years | 💪 Very Strong |
+| `Yuvraj#987/` | 100% | Centuries | 🏆 Excellent |
 
 ---
 
