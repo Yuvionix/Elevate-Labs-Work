@@ -41,10 +41,10 @@ Five passwords of varying complexity were created for analysis.
 | Password | Type | Description |
 |-----------|------|-------------|
 | `123456` | Very Weak | Simple numeric sequence |
-| `pratyush123` | Medium | Lowercase + digits |
-| `Pratyush123` | Strong | Mixed case, includes digits |
-| `Pratyush@123/` | Very Strong | Includes special characters, 13 characters long |
-| `Pr@tYush#987/` | Very Strong | Randomized characters with high entropy |
+| `Yuvraj123` | Medium | Lowercase + digits |
+| `Yuvraj123` | Strong | Mixed case, includes digits |
+| `Yuvraj@123/` | Very Strong | Includes special characters, 13 characters long |
+| `Yuvraj#987/` | Very Strong | Randomized characters with high entropy |
 
 ---
 
@@ -54,10 +54,10 @@ Each password was tested on **PasswordMeter.com**, recording its score, strength
 | Password | Score (%) | Strength Level | Key Feedback |
 |-----------|------------|----------------|---------------|
 | `123456` | 25% | Very Weak | Too short, only digits |
-| `pratyush123` | 56% | Medium | Better complexity but predictable pattern |
-| `Pratyush123` | 78% | Strong | Includes mixed case, digits, symbols |
-| `Pratyush@123/` | 95% | Very Strong | Random sequence, excellent entropy |
-| `Pr@tYush#987/` | 100% | Very Strong | Random sequence, excellent entropy |
+| `Yuvraj123` | 56% | Medium | Better complexity but predictable pattern |
+| `Yuvraj123` | 78% | Strong | Includes mixed case, digits, symbols |
+| `Yuvraj@123/` | 95% | Very Strong | Random sequence, excellent entropy |
+| `Yu@vraj#987/` | 100% | Very Strong | Random sequence, excellent entropy |
 
 ---
 
@@ -67,10 +67,10 @@ Each password was further evaluated using **PasswordMonster.com** to estimate cr
 | Password | Strength Level | Estimated Crack Time | Classification |
 |-----------|----------------|----------------------|----------------|
 | `123456` | Very Weak | < 1 second | Extremely Weak |
-| `pratyush` | Medium | 9 hours | Weak |
-| `Pratyush123` | Strong | 4 months | Strong |
-| `Pratyush@123/` | Very Strong | 91 years | Very Strong |
-| `Pr@tYush#987/` | Very Strong | 11,000 years | Very Strong |
+| `Yuvraj` | Medium | 9 hours | Weak |
+| `Yuvraj123` | Strong | 4 months | Strong |
+| `Yuvraj@123/` | Very Strong | 91 years | Very Strong |
+| `Yu@vraj#987/` | Very Strong | 11,000 years | Very Strong |
 
 ---
 
