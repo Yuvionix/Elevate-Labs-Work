@@ -65,4 +65,4 @@ By understanding permissions, verifying developers, and removing unwanted add-on
 
 ---
 
-**© 2025 Pratyush Raj — ElevateLabs Pvt. Ltd. Cyber Security Internship**
+**© 2025 Yuvraj Yadav — ElevateLabs Pvt. Ltd. Cyber Security Internship**
